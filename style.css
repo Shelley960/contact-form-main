@@ -1,0 +1,22 @@
+body {
+    font-family:'Karla';
+    background-color: hsl(148, 38%, 91%);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+}
+
+.btn {
+    background-color: hsl(169, 82%, 27%);
+    color: hsl(0, 0%, 100%);
+
+}
+
+.container {
+    padding: 2rem;
+}
+
+.col-sm-10 {
+    
+}
