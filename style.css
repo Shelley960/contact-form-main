@@ -17,6 +17,7 @@ body {
     padding: 2rem;
 }
 
-.col-sm-10 {
-    
+
+:hover {
+    border-color: hsl(186, 15%, 59%);
 }
