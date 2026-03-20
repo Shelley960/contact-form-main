@@ -6,8 +6,3 @@ btn.addEventListener(
     'click', function () {
         alert('Message Sent!')
     })
-
-/* document.addEventListener("DOMContentLoaded", function () {
-  const form = document.querySelector("form");
-  const successAlert = document.getElementById("successAlert");
-}) */
